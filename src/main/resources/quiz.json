@@ -1,0 +1,226 @@
+[
+  {
+    "answerKey": 2,
+    "option 3": "Procedure errors",
+    "option 4": "None of the above",
+    "question": "What is the main purpose of integration testing?",
+    "option 1": "Design errors",
+    "option 2": "Interface errors"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "To document the software development process thoroughly",
+    "option 4": "To find gaps, errors, or missing requirements compared to the actual desires or requirements.",
+    "question": "What is the primary objective of software testing?",
+    "option 1": "To improve software performance by optimizing the code",
+    "option 2": "To ensure the software meets only technical specifications."
+  },
+  {
+    "answerKey": 1,
+    "option 3": "QA meets regulations, QC satisfies customers",
+    "option 4": "QA tests functionality, QC tests security",
+    "question": "Which of the following best describes the primary difference between Quality Assurance (QA) and Quality Control (QC)?",
+    "option 1": "QA prevents defects, QC identifies defects",
+    "option 2": "QA identifies defects, QC ensures process adherence."
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Improving the aesthetic design of the software interface.",
+    "option 4": "Reducing the level of risk of inadequate software quality",
+    "question": "Which of the following is not a primary objective of software testing?",
+    "option 1": "Ensuring required coverage of a test object",
+    "option 2": "Verifying whether specified requirements have been fulfilled."
+  },
+  {
+    "answerKey": 4,
+    "option 3": "Test Design",
+    "option 4": "Test Analysis",
+    "question": "Acceptance criteria is written in which phase?",
+    "option 1": "Test Execution",
+    "option 2": "Requirement Analysis"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Agile team",
+    "option 4": "External QA consultants",
+    "question": "In Agile development, who is typically responsible for handling some test management tasks?",
+    "option 1": "Dedicated testing team",
+    "option 2": "Project manager"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "curiosity",
+    "option 4": "creativity",
+    "question": "To identify defects, which skill is essentially needed for a QA engineer?",
+    "option 1": "Analytical thinking",
+    "option 2": "critical thinking"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "Only System Testing",
+    "option 4": "All testing level",
+    "question": "Equivalence Partitioning is applicable for",
+    "option 1": "Analytical thinking",
+    "option 2": "System Testing"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "Adhoc Testing",
+    "option 4": "All of the above",
+    "question": "Testing without a real plan is called",
+    "option 1": "Gorilla Testing",
+    "option 2": "Monkey testing"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Smoke Testing",
+    "option 4": "Sanity Testing",
+    "question": "Which is called the confidence testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "As soon as the prototype is ready",
+    "option 4": "As soon as the management tells to start",
+    "question": "When should testers review documents?",
+    "option 1": "When requirements come",
+    "option 2": "As soon as the drafts are ready"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "To meet project deadlines",
+    "option 4": "To enhance user documentation",
+    "question": "What is the primary goal of software testing?",
+    "option 1": "To find bugs",
+    "option 2": "To improve code readability"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "Black-box testing",
+    "option 4": "White-box testing",
+    "question": "Which testing technique verifies if a system can handle large amounts of data?",
+    "option 1": "Smoke testing",
+    "option 2": "Stress testing"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To verify if existing functionality still works after changes",
+    "option 4": "To test a system with maximum data load",
+    "question": "What is the purpose of regression testing?",
+    "option 1": "To verify if newly implemented features work correctly",
+    "option 2": "To ensure that defects have been fixed"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Unit testing",
+    "option 4": "Integration testing",
+    "question": "Which testing technique requires knowledge of the internal logic of an application�\u20AC�s code?",
+    "option 1": "White-box testing",
+    "option 2": "Black-box testing"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "A model for tracking bugs during testing",
+    "option 4": "A model for prioritizing test cases",
+    "question": "What does the 'V-model' in software testing represent?",
+    "option 1": "A model that describes the relationships between each phase of the development lifecycle and its associated phase of testing",
+    "option 2": "A model used exclusively for user acceptance testing"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "To check the alignment of UI elements",
+    "option 4": "To assess the security of the system",
+    "question": "What is the purpose of boundary value analysis in testing?",
+    "option 1": "To test extreme boundary conditions",
+    "option 2": "To verify the functionality of an application"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Compatibility testing",
+    "option 4": "Functional testing",
+    "question": "Which type of testing examines how a system behaves under certain conditions over time?",
+    "option 1": "Performance testing",
+    "option 2": "Usability testing"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "To test if the software works on different operating systems",
+    "option 4": "To test how fast the software executes under normal conditions",
+    "question": "What is the purpose of usability testing?",
+    "option 1": "To test the functionality of the software",
+    "option 2": "To test how user-friendly the software is"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "Beta testing",
+    "option 4": "Early testing",
+    "question": "Which testing technique focuses on finding defects in an early stage of the development cycle?",
+    "option 1": "Acceptance testing",
+    "option 2": "Alpha testing"
+  },
+  {
+    "answerKey": 3,
+    "option 3": " Unit testing",
+    "option 4": "End-to-end testing",
+    "question": "Which testing technique focuses on testing individual software modules or components?",
+    "option 1": "Integration testing",
+    "option 2": "System testing"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "The time it takes to fix a defect",
+    "option 4": "The duration of a testing cycle",
+    "question": "What does the term defect life cycle refer to in software testing?",
+    "option 1": "The stages a defect goes through, from discovery to closure",
+    "option 2": "The lifespan of a software project"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Stress testing",
+    "option 4": "Scalability testing",
+    "question": "Which testing technique involves testing the software's ability to handle large volumes of data?",
+    "option 1": "Volume testing",
+    "option 2": "Load testing"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Viable system model",
+    "option 4": "Variable testing model",
+    "question": "What does the 'V' model in software testing represent?",
+    "option 1": "Verification and Validation model",
+    "option 2": "Version control model"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Testing",
+    "option 4": "Maintenance",
+    "question": "Which phase of the software development life cycle (SDLC) does SQA primarily focus on?",
+    "option 1": "Design",
+    "option 2": "Coding"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Integration testing",
+    "option 4": "Functional testing",
+    "question": "Which testing type evaluates the software's behavior under peak load conditions?",
+    "option 1": "Stress testing",
+    "option 2": "Usability testing"
+  }
+]
