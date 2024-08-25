@@ -114,8 +114,6 @@ https://github.com/user-attachments/assets/08cce2a4-58af-482f-8c25-568af523e691
 
 https://github.com/user-attachments/assets/d6d981b8-c2b7-4314-8eff-9e4bbb0c3a28
 
-[Student Login and Execute the Quiz.webm](https://github.com/user-attachments/assets/3eec8c9d-b62b-4a3f-a1ee-fcea72a19a74)
-
 
 
 
