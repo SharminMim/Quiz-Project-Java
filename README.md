@@ -1,5 +1,5 @@
 ## Project Title : Java Quiz Exam
-
+It's a scenario-based JAVA program with ADMIN and STUDENT login features. Where if the user is an ADMIN then he will able to create questions and if the user is a STUDENT then he is able to participate in the quiz exam. After finishing the exam the score will be shown. If anyone will try to log in with invalid credentials then it will show an invalid message. User credential details and quiz questions are stored in two different JSON files.
 ## Tools Used
 - IntelliJ IDEA
 - Java
